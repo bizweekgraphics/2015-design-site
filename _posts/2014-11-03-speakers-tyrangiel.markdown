@@ -10,6 +10,7 @@ twitter: https://twitter.com/Tyrangiel
 facebook: https://www.facebook.com/BloombergBusinessweek
 website: http://www.businessweek.com/
 session: 4
+published: false
 ---
 In September 2013, Josh Tyrangiel was named Senior Executive Editor for Consumer Products, including <em>Bloomberg Businessweek</em>, Bloomberg TV, and Bloomberg Digital. Tyrangiel was named editor of <em>Bloomberg Businessweek</em> in November 2009 and has been credited with the successful redesign and relaunch of the magazine. Under his leadership Businessweek has grown in frequency, rate base, editorial pages and ad pages. <em>Bloomberg Businessweek</em> received the 2012 National Magazine Award for General Excellence in the general-interest category and The Bloomberg Businessweek+ App won a 2012 Webby Award for best News app. Tyrangiel was named <em>Advertising Age</em>'s 2012 Editor of the Year, and appeared on the Crain's New York Business 2012 "40 Under 40" list.
 
