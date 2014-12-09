@@ -1,0 +1,70 @@
+---
+layout: default
+---
+    <div id="container">
+        <div id="environment">  
+            <div id="content">
+            {% for post in site.posts %}
+            {% if post.title == "Intro" %}
+                <section style="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, -500px); opacity:1;">
+                    <article id="{{ post.title | downcase }}" class="inverted">
+                    {{ post.content }}
+                    </article>
+                </section>
+            {% elsif post.title == "About" %}
+                <section style="transform: translate3d(0px, 0px, -1000px); -webkit-transform: translate3d(0px, 0px, -1000px);">
+                    <article id="{{ post.title | downcase }}" class="inverted">
+                        <a id="about"></a>
+                        <h2>{{ post.title }}</h2>
+                        <p>Enter your email address for updates and information.</p>
+                        <br/>
+                        <form id="mailChimp">
+                            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="name">
+                            <label for="mce-EMAIL"></label>
+                            <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="email">
+                            <input type="submit" name="submit" value="Submit" id="submit">
+                        </form>
+                        {{ post.content }}
+                    </article>
+                </section>                
+            {% elsif post.title == "Schedule" %}
+                <section style="transform: translate3d(0px, 0px, -3000px); -webkit-transform: translate3d(0px, 0px, -3000px);">
+                    <article id="{{ post.title | downcase }}">
+                        <a id="schedule"></a>
+                        <h2>{{ post.title }}</h2>
+                        {{ post.content }}
+                    </article>
+                </section>
+            {% elsif post.title == "Location" %}
+                <section style="transform: translate3d(0px, 0px, -4000px); -webkit-transform: translate3d(0px, 0px, -4000px);">
+                    <article id="{{ post.title | downcase }}" class="inverted">
+                        <a id="location"></a>
+                        <h2>{{ post.title }}</h2>
+                        {{ post.content }}
+                    </article>
+                </section>
+            {% endif %}
+            {% endfor %}
+                <section style="transform: translate3d(0px, 0px, -2000px); -webkit-transform: translate3d(0px, 0px, -2000px);">
+                    <article id="speakers">
+                        <a id="speakers"></a>
+                        <h2>Speakers</h2>
+                        {% for post in site.posts %}
+                        {% if post.name == "speakers" %}
+                        <div id="{{ post.speaker | downcase handleize }}" class="speaker session-{{ post.session }}">
+                            <a href="/{{ post.permalink }}">
+                                <div class="imgContainer">
+                                    <img src="/media/{{ post.image }}" alt="{{ post.speaker}}" />
+                                    <div class="backdrop"></div>
+                                </div>
+                                <p class="name">{{ post.speaker }}</p>
+                                <p class="title">{{ post.jobtitle }}</p>
+                            </a>
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+                    </article>
+                </section>
+            </div> 
+        </div> 
+    </div>

@@ -1,0 +1,223 @@
+body {
+  background: #ffffff;
+  color: #444444;
+  font-family: sans-serif;
+  line-height: 1.231;
+	font-family: Helvetica, sans-serif;
+}
+
+body.dark_layout {
+  background: #1a1a1a;
+}
+
+body.half {
+  width: 315px;
+}
+
+body.full {
+  width: 630px;
+}
+
+body.wide {
+  width: 970px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* BBW WEBFONT DEFINITIONS */
+
+@font-face {
+  font-family: 'BloombergLBold';
+    src: url("http://www.businessweek.com/assets/type/bloombergl_heavy.eot?#iefix") format('embedded-opentype'),
+       url('http://www.businessweek.com/assets/type/bloombergl_heavy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+  font-family:'BWHaasHead';
+  src: url('http://www.businessweek.com/assets/type/hinted/haas/bwhaasgroteskhead-95black.eot?#iefix') format('eot'),
+     url('http://www.businessweek.com/assets/type/hinted/haas/bwhaasgroteskhead-95black.woff') format('woff'),
+     url('http://www.businessweek.com/assets/type/haas/bwhaasgroteskhead-95black.ttf') format('truetype');
+
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+@font-face {
+  font-family:'BWHaasHead75Bold';
+  src: url('http://www.businessweek.com/assets/type/hinted/haas75/bwhaasgroteskhead-75bold.eot?#iefix') format('eot'),
+     url('http://www.businessweek.com/assets/type/hinted/haas75/bwhaasgroteskhead-75bold.woff') format('woff'),
+     url('http://www.businessweek.com/assets/type/haas75/bwhaasgrotesktext-75bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+@font-face {
+  font-family:'BWHaasRegular';
+  src: url('http://www.businessweek.com/assets/web_fonts/bwhaasgroteskhead-65medium.eot?#iefix') format('eot'),
+     url('http://www.businessweek.com/assets/web_fonts/bwhaasgroteskhead-65medium.woff') format('woff'),
+     url('http://www.businessweek.com/assets/web_fonts/bwhaasgrotesktext-65medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+/* HEADER LOGO */
+/* this is largely ported from the main businessweek.com css */
+
+#logo {
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  display: block;
+  position: relative;
+  float: left;
+  width: 477px;
+  height: 60px;
+  margin: 10px 0;
+}
+
+.iframed #logo {
+  display:none;
+}
+
+#logo a {
+  width: 100%;
+  height: inherit;
+  display: block;
+}
+
+#logo a#home_link {
+  width: 427px;
+  height: 33px;
+  background: url(http://static.btrd.net/assets/site-s5d303eb3f3-448dcf1d9671789f047efdb043527a71.png) no-repeat;
+  background-position: 0 -145px;
+}
+
+.dark_layout #logo a#home_link {
+  background-position: 0 -184px;
+}
+
+/* SUBHEAD */
+
+h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+h2 a {
+  color: #f0f;
+}
+
+#channel_name {
+  position: absolute;
+  bottom: 0;
+  font-size: 27px;
+  display: block;
+  text-indent: 0;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: "BWHaasHead",Arial,sans-serif;
+}
+
+#channel_name a, .channel #department_name a {
+  text-indent: 0;
+  width: auto;
+  height: auto;
+}
+
+#logo a {
+  display: block;
+}
+
+/* OTHER TEMPLATE */
+
+.hed {
+  font-family: BWHaasHead;
+}
+
+.dek {
+  font-family: BWHaasRegular;
+}
+
+.data-credit {
+  text-transform: uppercase;
+  text-align: right;
+  font-size: 10px;
+  font-family: Helvetica;
+  margin-top: 50px;
+}
+
+.wide .data-credit {
+  text-align: center;
+}
+
+/* HELPER STUFF */
+
+.ir {
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+  direction: ltr;
+  background-repeat: no-repeat;
+}
+
+/* SVG */
+
+#svg-canvas.fullscreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+path.arrow, polyline.arrow {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+
+/* nice simple button from pure css http://purecss.io/buttons/ */
+button {
+  font-family: BWHaasHead;
+  font-size: 100%;
+  padding: .5em 1.5em;
+  color: #444;
+  color: rgba(0,0,0,.8);
+  border: 1px solid #999;
+  border: 0 rgba(0,0,0,0);
+  background-color: #E6E6E6;
+  text-decoration: none;
+  border-radius: 2px;
+  -webkit-transition: .1s linear -webkit-box-shadow;
+  -moz-transition: .1s linear -moz-box-shadow;
+  -ms-transition: .1s linear box-shadow;
+  -o-transition: .1s linear box-shadow;
+  transition: .1s linear box-shadow;
+  display: inline-block;
+  zoom: 1;
+  line-height: normal;
+  white-space: nowrap;
+  vertical-align: baseline;
+  text-align: center;
+  cursor: pointer;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: button;
+  cursor: pointer;
+  margin: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+} button:hover {
+  background-image: linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+}

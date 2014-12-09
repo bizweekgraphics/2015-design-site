@@ -1,0 +1,12 @@
+# Site settings
+title: Bloomberg BusinessWeek Design 2015
+email: alex.kiko@gmail.com
+description: ""
+baseurl: ""
+url: ""
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty

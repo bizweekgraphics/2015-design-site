@@ -1,0 +1,41 @@
+---
+name: about
+permalink: about
+type: article
+---
+Bringing the world's top designers and business leaders together to discover how design makes the world better, smarter, cooler, and more innovative.
+
+Past presenters include: Gadi Amit, Rebekka Bay, Yves Behar, Brian Chesky, Elizabeth Diller, Tony Fadell, Jeanne Gang, Florentijn Hofman, Hosain Rahman, and Patricia Urquiola.
+
+>"There was a lot of know-how in the audience,
+>definitely an engaged and professional audience, 
+>where everyone could actually have spoken onstage."
+>
+>
+>–Yves Béhar, fuseproject
+
+>"Bloomberg Businessweek Design is the intersection 
+>of design, business, and innovative engineering. 
+>Not to be missed by anyone ambitious."  
+>
+>
+>–Daniel Kim, Founder and CEO, Lit Motors
+
+>"A spinning flurry of ideas, creations, stories
+>and a few hilarious antidotes from an outstanding Dutch artist.
+>Bloomberg Businessweek Design 2014 was the standout of 
+>the conferences I attended last year and not to be missed."  
+>–Gadi Amit, President, NewDealDesign
+
+>"I really enjoyed speaking at the inaugural 
+>Bloomberg Design Conference. It ran like clockwork—
+>smart, charming speakers in a great venue with 
+>world-class attendees. I look forward to being in
+>the audience for the next one."
+>
+>
+>–Michael B. Johnson, Pixar Animation Studios
+
+<br/>
+
+For more on last year's conference, check out the <a href="http://www.businessweek.com/features/design-issue-2014/" target="_blank">Design Issue</a>.

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="post" id="{{ page.permalink }}">
+  <!-- image data -->
+  <div class="imageDatas">
+  {% for image in page.images %}
+  {% if image.src != "blank.gif" %}
+    <div class="imageData" data-src="{{ image.src }}"></div>
+  {% endif %}
+  {% endfor %}
+  </div>
+  <!-- marquee -->
+  <article class="marquee">
+  	<div class="slides">
+  		<div class="slide"></div>
+  	</div>
+      <header>
+  	    <h1>{{ page.name }}</h1>
+    		<div class="description">{{ content }}</div>
+  	</header>
+  </article>
+  <!-- images rendered -->
+  {% for image in page.images %}
+  {% if image.src != "blank.gif" %}
+  <article>
+    <div class="imageContainer"></div>
+  </article>
+  {% endif %}
+  {% endfor %}
+</div>

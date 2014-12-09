@@ -1,0 +1,30 @@
+---
+name: location
+permalink: location
+type: article
+---
+<div id="map">
+	<a href="https://www.google.com/maps?ll=37.785262,-122.402424&z=14&t=m&hl=en-US&gl=US" target="_blank">
+		<img class="verticallyCentered" src="media/map-01-01.png" />
+	</a>
+</div>
+
+Yerba Buena Center for the Arts  
+701 Mission Street  
+San Francisco, CA 94103  
+<br/>
+
+>Preferred Hotel:  
+>W San Francisco  
+>181 3rd Street  
+>San Francisco, CA 94103  
+
+<br/>
+
+><a href="https://www.starwoodmeeting.com/Book/BloombergBusinessweek2015" target="_blank">Book</a> by March 25 for special conference rate
+
+<br/>
+
+>Reservations: <a href="tel:1-888 627 8391">+ 1 888 627 8391</a>  
+
+<br/>

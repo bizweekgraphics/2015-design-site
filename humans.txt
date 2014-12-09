@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bloomberg Businessweek Graphics -- @bizweekgraphics 
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    d3.js
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr

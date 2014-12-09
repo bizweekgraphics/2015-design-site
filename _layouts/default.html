@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+{% include head.html %}
+
+<body>
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+
+<script type="text/javascript" src="/static/js/jquery-2.1.1.min.js" ></script>
+<!--script type="javascript/text">
+    window.jQuery || document.write('<script type="text/javascript" src="scripts/jquery-2.1.1.min.js">\x3C/script>')
+</script-->
+
+<script type="text/javascript" src="/static/js/libs.min.js" ></script>
+<script type="text/javascript" src="/static/js/script.min.js" ></script>
+
+<!-- Google Analytics -->
+<script>
+    var _gaq=[['_setAccount','UA-45377861-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+<div id="dim">
+    <button>x</button>
+    <div id="lightbox"></div>
+</div>
+<canvas id="starfield"></canvas>
+</body>
+</html>
