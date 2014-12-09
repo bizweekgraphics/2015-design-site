@@ -7,10 +7,6 @@ var currentSectionIndex = 0;
 var star_init_speed = 100;
 var panelOpacity = 0.25;
 
-$(window).load(function() {
-    $(window).scrollTop(0);
-});
-
 $(document).ready(function() {
     if ( navigator.userAgent.match(/Windows/) ) {
         $('body').addClass('msie');
@@ -147,6 +143,9 @@ $(document).ready(function() {
                     }
                 });
             }, 50);
+            setTimeout(function(){
+                $(window).scrollTop(0);
+            }, 500);
         }
         else {
             interfaceAnimateIn();
