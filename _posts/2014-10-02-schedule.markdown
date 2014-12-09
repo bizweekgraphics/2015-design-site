@@ -8,11 +8,13 @@ type: article
 - - - 
 
 + **8:00 - 9:00AM** Check in & breakfast
++ **9:00 - 9:15AM** Run to your seat
 
 ### Session 1
 - - - 
 
 + **9:00 - 10:45AM** Session 1
++ Session 2b
 
 
 ### OOS
