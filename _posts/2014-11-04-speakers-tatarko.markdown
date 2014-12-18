@@ -6,7 +6,7 @@ permalink: tatarko
 speaker: Adi Tatarko
 jobtitle: CEO and Co-Founder, Houzz
 image: tatarko.png
-https://twitter.com/houzz
+twitter: https://twitter.com/houzz
 website: http://www.houzz.com/user/adi-t
 session: 3
 ---
