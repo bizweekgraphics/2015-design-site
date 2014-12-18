@@ -5,4 +5,4 @@ type: article
 <h1><div>B</div><div>l</div><div>o</div><div>o</div><div>m</div><div>b</div><div>e</div><div>r</div><div>g</div></h1>
 <h1><div>B</div><div>u</div><div>s</div><div>i</div><div>n</div><div>e</div><div>s</div><div>s</div><div>w</div><div>e</div><div>e</div><div>k</div></h1>
 <h1><div>D</div><div>e</div><div>s</div><div>i</div><div>g</div><div>n</div><div>&nbsp;</div><div>2</div><div>0</div><div>1</div><div>5</div></h1>
-<h3>How design and technology are changing the way we live, work and play</h3>
+<h3>How design and technology are changing the way we live, work, and play</h3>
