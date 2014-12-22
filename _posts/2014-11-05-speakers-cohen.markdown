@@ -5,7 +5,7 @@ layout: speaker
 permalink: cohen
 speaker: Alon Cohen
 jobtitle: President and Co-Founder, Houzz
-image: cohen.png
+image: cohen_new.png
 twitter: https://twitter.com/houzz
 website: http://www.houzz.com/user/alonc
 session: 3
