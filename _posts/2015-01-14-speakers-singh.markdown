@@ -5,7 +5,7 @@ layout: speaker
 permalink: singh
 speaker: Dolly Singh
 jobtitle: Founder and CEO, Thesis Couture
-image: singh.png
+image: singh2.png
 twitter: https://twitter.com/dollysingh
 website: http://thesiscouture.com
 session: 4
