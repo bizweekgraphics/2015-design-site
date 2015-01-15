@@ -5,7 +5,7 @@ layout: speaker
 permalink: brunner
 speaker: Robert Brunner
 jobtitle: Founding Partner, Ammunition
-image: brunner.png
+image: brunner2.png
 twitter: https://twitter.com/rdbrunner
 facebook: https://www.facebook.com/ammunitiongroup
 website: http://www.ammunitiongroup.com
