@@ -289,6 +289,8 @@ function onResize() {
     var _bW = $('article#speakers div.speaker div.imgContainer').first().width();
     $('article#speakers div.speaker div.imgContainer').height(_bW);
 
+    $('div.speaker').height(Math.ceil($('div.speaker').width()));
+
     if ( _h < 780 ) {
         $('#intro, #location').removeClass('verticallyCentered');
     } else {
