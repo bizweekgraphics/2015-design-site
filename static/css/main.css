@@ -696,7 +696,7 @@ div.speaker {
     float: left;
     margin: 3%;
     width: 26.5%;
-    height: 54.5%;
+    height: 28.5%;
 }
 
 div.speaker a {
@@ -1238,7 +1238,7 @@ article#location {
     }
 
     div.speaker {
-        height: auto !important;
+        /*height: auto !important;*/
     }
 
     label {
