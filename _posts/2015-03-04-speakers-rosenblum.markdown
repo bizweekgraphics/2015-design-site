@@ -5,7 +5,7 @@ layout: speaker
 permalink: rosenblum
 speaker: Emma Rosenblum
 jobtitle: Editor, Bloomberg Pursuits
-image: rosenblum2.png
+image: rosenblum_new.png
 twitter: https://twitter.com/emmarosenblum
 website: http://www.bloomberg.com/pursuits
 session: 1

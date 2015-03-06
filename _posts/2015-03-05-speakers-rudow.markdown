@@ -5,7 +5,7 @@ layout: speaker
 permalink: rudow
 speaker: Gordon Rudow
 jobtitle: Senior Partner, Lippincott
-image: rudow.png
+image: rudow_new.png
 twitter: https://twitter.com/lippincottbrand
 website: http://lippincott.com/en/
 session: 4
