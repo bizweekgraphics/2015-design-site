@@ -7,7 +7,6 @@ speaker: Daniel Caudill
 jobtitle: Creative Director, Shinola
 image: caudill2.png
 twitter: https://twitter.com/shinola
-facebook: https://www.facebook.com/daniel.caudill.391
 website: http://shino.la/home
 session: 1
 ---
