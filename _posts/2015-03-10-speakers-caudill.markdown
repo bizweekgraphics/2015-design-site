@@ -5,7 +5,7 @@ layout: speaker
 permalink: caudill
 speaker: Daniel Caudill
 jobtitle: Creative Director, Shinola
-image: caudill.png
+image: caudill2.png
 twitter: https://twitter.com/shinola
 facebook: https://www.facebook.com/daniel.caudill.391
 website: http://shino.la/home
