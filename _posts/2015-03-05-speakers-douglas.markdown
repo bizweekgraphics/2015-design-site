@@ -4,7 +4,7 @@ type: page
 layout: speaker
 permalink: douglas
 speaker: Shawn Douglas
-jobtitle: Professor, University of California at San Francisco
+jobtitle: Professor, UCSF
 image: douglas_new.png
 twitter: https://twitter.com/smd4
 website: http://www.shawndouglas.com
