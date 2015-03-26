@@ -12,7 +12,7 @@ type: article
 ### OOS
 - - - 
 
-* Exclusive events for [ticket holders](https://www.regonline.com/register/login.aspx?eventID=1617238&trackingcode=web). Registration information will be listed in ticket purchase confirmation e-mail
+* Exclusive events for ticket holders. Registration information will be listed in ticket purchase confirmation e-mail
 * Bloomberg's new R&D office
 * Designer Fund
 * Autodesk's Pier 9 Workshop
@@ -33,6 +33,8 @@ type: article
 - - - 
 
 + **9:00 - 10:45AM** Session 1
+* Ev Williams, Medium
+* Evan Sharp, Pinterest
 
 ### OOS
 _ _ _
