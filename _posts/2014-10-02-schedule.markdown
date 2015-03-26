@@ -7,7 +7,7 @@ type: article
 ### OOS
 - - - 
 
-+ **Monday, April 27** STUDIO TOURS
++ **Monday, April 27** Studio Tours
 
 ### OOS
 - - - 
@@ -27,7 +27,7 @@ type: article
 ### OOS
 - - - 
 
-+ **Tuesday, April 28** CONFERENCE DAY
++ **Tuesday, April 28** Conference Day
 
 
 ### Session 1
