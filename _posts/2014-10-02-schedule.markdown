@@ -28,8 +28,6 @@ type: article
 
 + **Tuesday, April 28** Conference Day
 
-### OOS
-_ _ _
 
 ### Session 1
 - - - 
