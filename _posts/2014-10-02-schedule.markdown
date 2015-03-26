@@ -7,12 +7,12 @@ type: article
 ### OOS
 - - - 
 
-+ **Monday, April 27** Studio Tours 
++ **MONDAY, APRIL 27** STUDIO TOURS
 
 ### OOS
 - - - 
 
-+ **11:30AM - 5:00PM** Bloomberg's R&D office, Designer Fund, Autodesk's Pier 9 Workshop, and Fuseproject
++ **11:30 - 5:00PM** Bloomberg's R&D office, Designer Fund, Autodesk's Pier 9 Workshop, and Fuseproject
 
 ### OOS
 - - - 
@@ -27,7 +27,7 @@ type: article
 ### OOS
 - - - 
 
-+ **Tuesday, April 28** Conference Day
++ **TUESDAY, APRIL 28** CONFERENCE DAY
 
 
 ### Session 1
