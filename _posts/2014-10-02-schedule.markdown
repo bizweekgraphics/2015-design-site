@@ -4,7 +4,7 @@ permalink: schedule
 type: article
 ---
 
-## OOS
+### OOS
 - - - 
 
 + **Monday, April 27** 
@@ -12,7 +12,7 @@ type: article
 ### OOS
 - - - 
 
-+ **Studio Tours** Exclusive events for ticket holders. Registration information will be listed in ticket purchase confirmation e-mail
++ **Studio Tours** Exclusive events for [ticket holders](https://www.regonline.com/register/login.aspx?eventID=1617238&trackingcode=web). Registration information will be listed in ticket purchase confirmation e-mail
 * Bloomberg's new R&D office
 * Designer Fund
 * Autodesk's Pier 9 Workshop
@@ -23,7 +23,7 @@ type: article
 
 + **5:00 - 7:30PM** Opening Reception
 
-## OOS
+### OOS
 - - - 
 
 + **Tuesday, April 28** 
