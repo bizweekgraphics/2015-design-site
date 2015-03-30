@@ -9,7 +9,7 @@ type: article
 
 + **APRIL 27** EXCLUSIVE FOR TICKET HOLDERS
 
-+ **11:30 - 5:00PM** Studio Tours: Bloomberg's R&D office, Designer Fund, Autodesk's Pier 9 Workshop, and Fuseproject _(registration information will be listed in ticket purchase confirmation e-mail)_
++ **11:30 - 5:00PM** Studio Tours: Bloomberg's R&D office, Designer Fund, Autodesk's Pier 9 Workshop, and fuseproject _(registration information will be listed in ticket purchase confirmation e-mail)_
 
 + **5:00 - 7:30PM** Opening Reception
 
@@ -24,8 +24,11 @@ type: article
 - - - 
 
 + **9:00 - 10:45AM** Session 1
-* Ev Williams, Medium
-* Evan Sharp, Pinterest
+* __Evan Sharp__, Pinterest, in conversation with __Brad Wieners__, _Bloomberg Businessweek_
+* Nicole Dosso, Skidmore, Owings, & Merrill
+* Shawn Douglas, UCSF
+* Alon Cohen & Adi Tatarko, Houzz, in conversation with Emma Rosenblum, Bloomberg Pursuits
+* Daniel Caudill, Shinola
 
 ### OOS
 _ _ _
@@ -37,6 +40,11 @@ _ _ _
 - - - 
 
 + **11:00 - 12:45PM** Session 2
+* Matias Duarte, Android, in conversation with Joshua Topolsky, Bloomberg Business
+* Michael Bierut, Pentagram
+* Tim Brown, IDEO, & Roger Martin, Martin Prosperity Institute, in conversation with Josh Tyrangiel, Bloomberg Media
+* Susan Kare, Susan Kare Design
+* Robert Brunner, Ammunition
 
 
 ### OOS
@@ -49,6 +57,11 @@ _ _ _
 - - - 
 
 + **2:15 - 4:30PM** Session 3
+* Chip Kidd, Alfred A. Knopf
+* Ev Williams, Medium, in conversation with Brad Stone, Bloomberg Businessweek
+* Scott Snibbe, Eyegroove
+* Selvaggia Armani
+* Jake Knapp, Google Ventures, & Steve Cousins, Savioke, in conversation with Belinda Lanks, Bloomberg Business
 
 
 ### OOS
@@ -61,7 +74,10 @@ _ _ _
 - - - 
 
 + **4:45 - 6:00PM** Session 4
-
+* Bjarke Ingels, BIG
+* Dolly Singh, Thesis Couture, with Ashlee Vance, Bloomberg Businessweek
+* Mike Woods, Framestore
+* Ayah Bdeir, littleBits
 
 ### OOS
 - - - 
