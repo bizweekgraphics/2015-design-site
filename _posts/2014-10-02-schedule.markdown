@@ -24,7 +24,7 @@ type: article
 - - - 
 
 + **9:00 - 10:45AM** Session 1
-* <strong>Evan Sharp</strong>, Pinterest, in conversation with <strong>Brad Wieners</strong>, _Bloomberg Businessweek_
+* Evan Sharp, Pinterest, in conversation with Brad Wieners, _Bloomberg Businessweek_
 * Nicole Dosso, Skidmore, Owings, & Merrill
 * Shawn Douglas, UCSF
 * Alon Cohen & Adi Tatarko, Houzz, in conversation with Emma Rosenblum, _Bloomberg Pursuits_
