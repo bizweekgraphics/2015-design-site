@@ -10,7 +10,7 @@ type: article
 + **APRIL 27** EXCLUSIVE FOR TICKET HOLDERS
 
 + **11:30 - 5:00PM** Studio Tours: 
-* Bloomberg R&D office • Designer Fund • Autodesk Pier 9 Workshop • Fuseproject 
+* Bloomberg R&D office • Designer Fund • Autodesk Pier 9 • Fuseproject 
 
 + **5:00 - 7:30PM** Opening Reception
 
@@ -62,7 +62,6 @@ _ _ _
 * Chip Kidd, Alfred A. Knopf
 * Ev Williams, Medium, in conversation with Brad Stone, _Bloomberg Businessweek_
 * Scott Snibbe, Eyegroove
-* Robb Denovan, Pixar
 * Selvaggia Armani, Designer
 * Jake Knapp, Google Ventures, & Steve Cousins, Savioke, in conversation with Belinda Lanks, Bloomberg Business
 
