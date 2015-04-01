@@ -8,7 +8,7 @@ jobtitle: Design Partner, Google Ventures
 image: knapp.png
 twitter: https://twitter.com/jakek
 website: http://about.me/jakeknapp
-session: 1
+session: 3
 ---
 Jake Knapp is a designer and facilitator. He created Google Ventures’ design sprint process and has run more than 80 sprints with startups including About.me, Nest, AngelList, and Foundation Medicine. He’s presented his process to business students at Stanford, Columbia, and the University of California at Berkeley.
 

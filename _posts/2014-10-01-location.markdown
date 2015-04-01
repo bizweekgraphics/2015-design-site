@@ -10,7 +10,7 @@ type: article
 </div>
 
 Yerba Buena Center for the Arts  
-701 Mission Street  
+700 Howard Street
 San Francisco, CA 94103  
 <br/>
 

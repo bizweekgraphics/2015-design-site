@@ -9,7 +9,7 @@ image: kidd.png
 twitter: https://twitter.com/chipkidd
 facebook: https://www.facebook.com/chip.kidd.18
 website: http://chipkidd.com/journal/
-session: 4
+session: 3
 ---
 Chip Kidd is an award-winning graphic designer and writer in New York. His groundbreaking book jacket designs for Alfred A. Knopf have elevated the form for close to three decades. He’s worked with hundreds of writers, including John Updike, Katharine Hepburn, Cormac McCarthy, Henry Louis Gates Jr., James Ellroy, Karen Russell, Michael Crichton, David Sedaris, Sharon Olds, Orhan Pamuk, Paul Simon, Neil Gaiman, and Haruki Murakami. His first novel, <em>The Cheese Monkeys</em>, was a national bestseller. His most recent book, <em>Go: A Kidd’s Guide to Graphic Design</em>, is the first book to teach graphic design to children and has over 60,000 copies in print.
 

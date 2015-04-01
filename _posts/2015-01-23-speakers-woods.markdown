@@ -9,7 +9,7 @@ image: woods.png
 twitter: https://twitter.com/framestore
 facebook: https://www.facebook.com/Framestore
 website: http://www.framestore.com
-session: 2
+session: 4
 ---
 As the founder of Framestore’s Digital Department, Mike Woods has been propelling its digital capabilities forward for the last 10 years. Working out of London and New York, he’s helped transform the fledgling department into one of the most creative and nimble in the industry, channeling Framestore’s 20-plus years of TV and film knowledge into quality and innovative content for interactive use. 
 

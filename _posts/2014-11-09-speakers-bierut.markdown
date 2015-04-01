@@ -9,7 +9,7 @@ image: bierut.png
 twitter: https://twitter.com/michaelbierut
 facebook: https://www.facebook.com/michael.bierut
 website: http://www.pentagram.com
-session: 4
+session: 2
 ---
 Michael Bierut studied graphic design at the University of Cincinnati’s College of Design, Architecture, Art and Planning, graduating summa cum laude in 1980. Prior to joining Pentagram in 1990 as a partner in the firm’s New York office, he worked for 10 years at Vignelli Associates, ultimately as vice president of graphic design. His clients at Pentagram have included the <em>New York Times</em> headquarters, Saks Fifth Avenue, the Council of Fashion Designers of America, Harley-Davidson, the New York Jets, the William Jefferson Clinton Foundation, Mohawk Paper Mills, the Brooklyn Academy of Music, and the Morgan Library and Museum.
 

@@ -9,7 +9,7 @@ image: brunner3.png
 twitter: https://twitter.com/rdbrunner
 facebook: https://www.facebook.com/ammunitiongroup
 website: http://www.ammunitiongroup.com
-session: 4
+session: 2
 ---
 Robert is an award-winning industrial designer, author, and the founder of Ammunition, a San Francisco-based design studio creating products that matter.
 
