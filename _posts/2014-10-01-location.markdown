@@ -9,9 +9,9 @@ type: article
 	</a>
 </div>
 
->Yerba Buena Center for the Arts  
->700 Howard Street
->San Francisco, CA 94103  
+Yerba Buena Center for the Arts  
+700 Howard Street
+San Francisco, CA 94103  
 <br/>
 
 >Preferred Hotel:  
