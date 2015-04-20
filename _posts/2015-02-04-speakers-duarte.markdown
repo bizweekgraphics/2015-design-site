@@ -4,7 +4,7 @@ type: page
 layout: speaker
 permalink: duarte
 speaker: Matías Duarte
-jobtitle: VP for Design, Android
+jobtitle: VP Design, Google
 image: duarte.png
 twitter: https://twitter.com/matiasduarte
 website: https://www.google.com
