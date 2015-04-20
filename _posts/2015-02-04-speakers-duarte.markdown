@@ -10,8 +10,10 @@ twitter: https://twitter.com/matiasduarte
 website: https://www.google.com
 session: 2
 ---
-Matías Duarte leads the Android design team. He’s responsible for all aspects of the software and visual experience across the Android platform and core applications services, as well as the design of Nexus tablets and phones. His team recently designed the critically acclaimed Nexus 5 phone, Nexus 7 tablet, Android 4.4 KitKat, and Google Now Launcher, which brings the predictive power and natural language voice control of Google Now to the home screen. Duarte led the design of the past four versions of Android, including Jelly Bean, which introduced Google Now; Ice Cream Sandwich, which launched the Holo visual style for Android; and Honeycomb, which brought Android to tablets.
+Matías Duarte leads the Material Design team which is focused on design across all of Google’s products and platforms. His team is responsible for interaction patterns, infrastructure and tool chains, as well as overall UX best practices across products. 
+
+Last year Duarte’s team designed Android 5.0 Lollipop which introduced Material Design, and Android Auto, Android Wear, and Android TV. Duarte led the design of the five prior versions of Android, including KitKat with the Google Now and natural language voice on the homescreen, Jellybean which introduced Google Now, Ice Cream Sandwich which introduced the Holo visual style for Android, and Honeycomb which brought Android to tablets. His team also designed the Nexus phones, tablets and TV player.
  
-Prior to joining Google, Duarte spearheaded the design of several lauded consumer devices and computing platforms. As vice president in charge of human interface at Palm, he headed the design of the WebOS operating system. While serving as VP for user experience at Helio, he created the Ocean series of two-way sliders, and as director of design at Danger he led the design of the T-Mobile Sidekick.
+Prior to joining Google, Duarte was responsible for the design of several consumer devices and computing platforms. As vice president in charge of human interface at Palm, he headed the design of the WebOS operating system. While serving as VP for user experience at Helio, he created the Ocean series of two-way sliders, and as director of design at Danger he led the design of the T-Mobile Sidekick.
  
 Duarte received his bachelor’s degree in computer science from the University of Maryland at College Park. His ongoing mission is to make computers delightful.
