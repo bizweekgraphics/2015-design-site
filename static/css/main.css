@@ -379,6 +379,7 @@ footer#footer div.wrapper {
     position: relative;
     width: 85%;
     margin: 25px auto;
+    padding-bottom: 20px;
 }
 
 footer#footer ul {
@@ -399,6 +400,34 @@ footer#footer ul li {
 footer#footer ul li a {
     color: #fff;
     font-weight: bold;
+}
+
+footer #sponsors {
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+footer #sponsors div {
+    float: left;
+}
+
+footer img {
+    vertical-align: top;
+}
+
+footer #att {
+    width: 35px;
+    margin-left: 15px;
+}
+
+footer #cadillac {
+    width: 60px;
+    margin-left: 25px;
+}
+
+footer #qualcomm {
+    width: 135px;
+    margin-left: 15px;
 }
 
 /*
@@ -1192,7 +1221,7 @@ article#location {
     *zoom: 1;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 925px) {
     html {
         font-size: 75% !important;
     }
