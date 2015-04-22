@@ -1499,6 +1499,7 @@ article#location {
     div.speaker {
         width: 44% !important;
         margin: 3% !important;
+        margin-bottom: 15% !important;
     }
 
     #environment {
@@ -1523,7 +1524,12 @@ article#location {
 
     footer#footer {
         position: relative !important;
-        bottom: -120px !important;
+        bottom: 30px !important;
+    }
+
+    footer#footer .right {
+        margin: 50px 0;
+        float: left;
     }
 
     form input {
@@ -1754,32 +1760,7 @@ section {
   -o-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
-/*
- #wrap {
-  position: relative !important;
-}
- #environment {
-  position: relative !important;
-}
- #content {
-  position: relative !important;
-  margin: 0 auto;
-}
- section {
-  margin: 0 auto;
-  position: relative !important;
-  display: inline-block !important;
-}
-#old-browser {
-  display: none;
-}
- #old-browser {
-  display: block;
-}
- #content div {
-  display: block;
-}
-*/
+
 /*
  * colors
  */
