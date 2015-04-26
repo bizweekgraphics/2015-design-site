@@ -9,7 +9,7 @@ image: dosso.png
 twitter: 
 facebook: 
 website: http://www.som.com
-session: 1
+session: 4
 ---
 Nicole Dosso joined SOM in 1998. A recognized expert in the technical challenges and solutions associated with the design of tall buildings in complex urban contexts, Dosso has extensive project experience that includes work on SOM’s key projects at the World Trade Center site: Seven World Trade Center and One World Trade center. Dosso’s other high-rise work in New York includes the Baccarat Hotel and Residences, developed by Starwood Capital Group; the 250 West 55th Street commercial office building, for Boston Properties; 383 Madison Avenue, the former Bear Stearns headquarters; and the exterior renovation of 2 Broadway, a 1.2 million-square-foot office tower in the financial district which houses the Metropolitan Transit Authority. 
 

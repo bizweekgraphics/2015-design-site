@@ -26,10 +26,10 @@ type: article
 
 + **9:00 - 10:45AM** Session 1
 * Evan Sharp, Pinterest, in conversation with Brad Wieners, _Bloomberg Businessweek_
-* Nicole Dosso, Skidmore, Owings, & Merrill
 * Shawn Douglas, UCSF
 * Alon Cohen & Adi Tatarko, Houzz, in conversation with Emma Rosenblum, _Bloomberg Pursuits_
 * Daniel Caudill, Shinola
+* Ayah Bdeir, littleBits, in conversation with Josh Tyrangiel, _Bloomberg Businessweek_
 
 ### OOS
 _ _ _
@@ -62,7 +62,7 @@ _ _ _
 * Chip Kidd, Alfred A. Knopf
 * Ev Williams, Medium, in conversation with Brad Stone, _Bloomberg Businessweek_
 * Scott Snibbe, Eyegroove
-* Rachel Comey, Designer
+* Rachel Comey, Designer, in conversation with Emma Rosenblum, _Bloomberg Pursuits_
 * Selvaggia Armani, Designer
 * Jake Knapp, Google Ventures, & Steve Cousins, Savioke, in conversation with Ashlee Vance, _Bloomberg Businessweek_
 
@@ -78,9 +78,9 @@ _ _ _
 + **4:30 - 6:00PM** Session 4
 * Bjarke Ingels, BIG
 * Jesse Pickard, Elevate, in conversation with Josh Tyrangiel, _Bloomberg Businessweek_
+* Nicole Dosso, Skidmore, Owings & Merrill
 * Dolly Singh, Thesis Couture, & Garrett Reisman, Space X, in conversation with Ashlee Vance, _Bloomberg Businessweek_
 * Mike McGee, Framestore
-* Ayah Bdeir, littleBits
 
 ### OOS
 - - - 
